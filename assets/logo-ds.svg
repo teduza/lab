@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" role="img" aria-label="DS monogram">
+  <rect x="2" y="2" width="60" height="60" rx="2" fill="#0b0c0e" stroke="#c4a574" stroke-width="2"/>
+  <rect x="7" y="7" width="50" height="50" rx="1" stroke="#c4a574" stroke-opacity="0.24" stroke-width="1"/>
+  <!-- D -->
+  <path d="M16.5 21V43M14.5 21H22.5C27.8 21 30.8 24.8 30.8 32C30.8 39.2 27.8 43 22.5 43H14.5" stroke="#c4a574" stroke-width="2.3" stroke-linecap="square" stroke-linejoin="round"/>
+  <!-- S -->
+  <path d="M47.2 24.4C46.1 22.1 44.1 21 41.4 21C38.1 21 35.8 22.9 35.8 25.6C35.8 28.5 37.8 30 41.6 31.3C45.6 32.7 48 34.4 48 37.8C48 41.1 45.3 43.2 41.5 43.2C38.3 43.2 36.1 41.8 35 39.4" stroke="#c4a574" stroke-width="2.3" stroke-linecap="square" stroke-linejoin="round"/>
+</svg>
